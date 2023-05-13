@@ -28,3 +28,7 @@ curl --request GET \
   --url http://path_to_your_api/ \
   --header 'XXXXXX'
 ```
+
+## 公式ドキュメント
+
+- [Auth0](https://auth0.com/jp)
